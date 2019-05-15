@@ -1,0 +1,1 @@
+<? $mysqli = mysqli_connect('host','user','pass','base'); ?>
